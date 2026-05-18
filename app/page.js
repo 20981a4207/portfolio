@@ -152,7 +152,7 @@ export default function Portfolio() {
 
         <div>
           <h3 className="text-2xl font-semibold text-white">
-            Data Scientist
+            Data Scientist - Credit Risk
           </h3>
 
           <p className="text-cyan-400 text-lg mt-1">
