@@ -79,10 +79,9 @@ export default function Portfolio() {
         spans across Machine Learning, Computer Vision, NLP, and Generative AI,
         with hands-on experience in developing scalable solutions using Python,
         PyTorch, and modern cloud technologies. I am passionate about leveraging
-        data to drive innovation and have successfully delivered projects ranging
-        from deepfake detection to predictive analytics. Always eager to learn
-        and adapt, I thrive in challenging environments where I can apply my
-        technical skills to create impactful solutions.
+        data to drive innovation. Always eager to learn and adapt, I thrive in 
+        challenging environments where I can apply my technical skills to create 
+        impactful solutions.
       </p>
 
       {/* Buttons */}
